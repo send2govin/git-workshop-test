@@ -17,8 +17,12 @@ Start off by cloning this repository to your desktop!
   - ```git status```
   - ```git add .```
   - ```git commit -m '[message]'```
-- Logs & Reverting
+- Logs & Resetting
   - ```git log```
+  - ```git reset --soft [hash]```
+  - ```git reset HEAD [file]```
+  - ```git checkout -- [file]```
+  - **```git reset --hard [hash]```**
 - Branching
   - ```git branch [name]```
   - ```git checkout [name]```
