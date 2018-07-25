@@ -1,2 +1,2 @@
-def add(a,bx):
-    return a/bx
+def divide(a,b):
+    return a/b
